@@ -1,0 +1,15 @@
+/*=======DO NOT TOUCH THIS FILE============*/
+#preview {
+  width:200px;
+  height:200px;
+  position:relative;
+}
+
+.items {
+  width:auto;
+  height:auto;
+  position:absolute;
+  left:0;
+  right:0;
+  margin:auto;
+}

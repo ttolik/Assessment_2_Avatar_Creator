@@ -1,0 +1,18 @@
+#range1, #range2, #range3, #range4, #colour {
+    width: 50px;
+}
+
+#button2 {
+    color: white;
+    background-color: black;
+}
+
+#button3 {
+    color: brown;
+    background-color: pink;
+}
+
+#button4 {
+    color: white;
+    background-color: grey;
+}
